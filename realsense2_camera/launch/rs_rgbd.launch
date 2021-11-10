@@ -47,10 +47,10 @@ Processing enabled by this node:
 
   <!-- Camera device specific arguments -->
 
-  <arg name="serial_no"           default="937622072290"/>
+  <arg name="serial_no"           default=""/>
   <arg name="usb_port_id"         default=""/>
   <arg name="device_type"         default=""/>	
-  <arg name="json_file_path" default="~/reef_ws/asdf.json"/>
+  <arg name="json_file_path"      default=""/>
   <arg name="fisheye_width"       default="640"/>
   <arg name="fisheye_height"      default="480"/>
   <arg name="enable_fisheye"      default="false"/>
